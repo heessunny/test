@@ -1,4 +1,8 @@
 aaaaa
 bbbbb
 ccc
+<<<<<<< HEAD
 ssss
+=======
+eee
+>>>>>>> test#1
